@@ -1,5 +1,5 @@
 # Smart Parking Enforcement System 
-## Zixuan Zhang (zz2777@columbia.edu), Haoran Zhu (hz2712@columbia.ed)
+## Zixuan Zhang (zz2777@columbia.edu), Haoran Zhu (hz2712@columbia.edu)
 
 ### Repo Structure 
 The main program can be started by running the following command:
